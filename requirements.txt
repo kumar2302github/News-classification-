@@ -1,0 +1,9 @@
+streamlit
+transformers
+torch
+pandas
+scikit-learn
+pillow
+pytesseract
+streamlit-extras
+ollama
