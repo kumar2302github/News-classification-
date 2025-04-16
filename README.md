@@ -44,12 +44,7 @@ Add tesseract to your system PATH
 Ensure Ollama is running and the required model (deepseek-r1:8b) is available: ollama run deepseek-r1:8b
 
 5. Launch the App
-bash
-Copy
-Edit
 streamlit run app.py
-
-
 
 📁 Project Structure
 
@@ -75,8 +70,4 @@ Add user feedback loop for improving classification
 📜 License
 This project is licensed under the MIT License – feel free to use, share, and modify with credit.
 
-👨‍💻 Author
-Manish
-A curious mind exploring the intersection of language, learning, and logic.
-Feel free to connect or contribute!
 
